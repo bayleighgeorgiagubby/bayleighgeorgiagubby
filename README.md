@@ -1,99 +1,45 @@
-<!DOCTYPE html>
 <html>
-<body style="background-color:powderblue;">
-</body>
-<body>
-<center>
-<h2 style="font-family:Verdana; color:#E51E8E; font-size: 40px;">MISS NUM NUMS BAKERY</p></h2>
-</center>
-</body>
+
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-body {margin: 0;}
 
-ul.topnav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #pink;
-}
+    <title>Bayleigh</title>
 
-ul.topnav li {float: left;}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="dmdd.css">
 
-ul.topnav li a {
-  display: block;
-  color: #E51E8E;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-ul.topnav li a:hover:not(.active) {background-color: #FFC0CB;}
-
-ul.topnav li a.active {background-color: #FFC0CB;}
-
-ul.topnav li.right {float: right;}
-
-@media screen and (max-width: 600px) {
-  ul.topnav li.right,
-  ul.topnav li {float: none;}
-}
-</style>
 </head>
+
 <body>
 
-<ul class="topnav">
-<li><a class="active" href="#home">Home</a></li>
-<li><a href="#Cakes">Cakes</a></li>
-<li><a href="#Cupcakes">Cupcakes</a></li>
-<li><a href="#Cookies">Cookies</a></li>
-<li><a href="#Brownies">Brownies</a></li>
-<li><a href="#Blondies">Blondies</a></li>
-<li><a href="#doughnuts">Doughnuts</a></li>
-<li><a href="#Boxes">Boxes</a></li>
-<li class="right"><a href="#Contact us">Contact us</a></li>
-</ul>
-</div>
+    <!-- The next line will add an image to your page -->
+    <img src="file:///Users/bayleighgubby/Desktop/First%20web%20page%20-%20About%20me-20220427/ME.JPG">
+
+
+    <!-- Heading 1, your most important heading, starts here -->
+    <h1>Bayleigh</h1>
+    <!-- Heading 1 finishes here -->
+
+    <hr>
+
+    <h2>About me</h2>
+
+    <p> Hi! I’m Bayleigh, 26 years old.
+    </p>
+
+    <p>I’m a big film fan, my favourites being those based on true stories!
+    </p>
+
+    <p>This particular module was interesting, to see and learn the technicality behind what we see on our screens everyday, with apps, and websites we visit and be able to one day myself have the ability to do the same and create my own.
+    </p>
+
+    <h2>My favourite Web sites</h2>
+
+    <!--edit the links and the URLs below for your favourite sites -->
+
+    <ol>
+        <li><a href="https://www.asos.com/">ASOS</a></li>
+        <li><a href="https://www.ikea.com/gb/en/">IKEA</a></li>
+        <li><a href="https://www.netflix.com/gb/">NETFLIX</a></li>
+    </ol>
 
 </body>
- <br />
-<body>
-<head>
-<center>
-       <title>change picture</title>
-      <script type = "text/javascript">
-          function displayNextImage() {
-              x = (x === images.length - 1) ? 0 : x + 1;
-              document.getElementById("img").src = images[x];
-          }
-
-          function displayPreviousImage() {
-              x = (x <= 0) ? images.length - 1 : x - 1;
-              document.getElementById("img").src = images[x];
-          }
-
-          function startTimer() {
-              setInterval(displayNextImage, 3000);
-          }
-
-          var images = [], x = -1;
-          images[0] = "https://www.cakesandbakes.co.uk/files/14-1.png" ;
-          images[1] = "https://www.cakesandbakes.co.uk/files/garden-festival-cake.png";
-          images[2] = "https://www.cakesandbakes.co.uk/files/unicorn-type-2.png";
-      </script>
-   </head>
-
-   <body onload = "startTimer()">
-       <img id="img" src="startpicture.jpg"/>
-
-</center>
-   </body>
-
-</body>
-<center>
-<a href = "contact@missnumnumsbakery.co.uk">contact@missnumnumsbakery.co.uk</a>
-</center>
-</body>
-</html>[missnumnums.HTML.txt](https://github.com/bayleighgeorgiagubby/bayleighgeorgiagubby/files/7179031/missnumnums.HTML.txt)
