@@ -12,7 +12,7 @@
 <body>
 
     <!-- The next line will add an image to your page -->
-    <img src="file:///Users/bayleighgubby/Desktop/First%20web%20page%20-%20About%20me-20220427/ME.JPG">
+    <img src="">
 
 
     <!-- Heading 1, your most important heading, starts here -->
